@@ -4,4 +4,6 @@
 
 因為目前疾管局所公布的資料為去隱私後的次級資料，包含每週縣市人數，確診人數，死亡人數等。
 
+資料來源 : CDC@TW https://nidss.cdc.gov.tw/ch/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV
+
 
