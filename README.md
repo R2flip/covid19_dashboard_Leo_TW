@@ -6,4 +6,4 @@
 
 資料來源 : CDC@TW https://nidss.cdc.gov.tw/ch/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV
 
-
+COVID-19 Taiwan - Open Source Version By Leo Lin Yi-Hsiung https://r2flip.shinyapps.io/covid19_dashboard_Leo_TW/
